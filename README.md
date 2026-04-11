@@ -34,11 +34,15 @@ MOSS-TTS-Nano is an open-source **multilingual tiny speech generation model** fr
 
 ## Demo
 
+- Online Demo: [https://openmoss.github.io/MOSS-TTS-Nano-Demo/](https://openmoss.github.io/MOSS-TTS-Nano-Demo/)
 - Hugging Face Space: [OpenMOSS-Team/MOSS-TTS-Nano](https://huggingface.co/spaces/OpenMOSS-Team/MOSS-TTS-Nano)
 
 ## Contents
 
+- [News](#news)
+- [Demo](#demo)
 - [Introduction](#introduction)
+  - [Main Features](#main-features)
 - [Supported Languages](#supported-languages)
 - [Quickstart](#quickstart)
   - [Environment Setup](#environment-setup)
@@ -46,6 +50,7 @@ MOSS-TTS-Nano is an open-source **multilingual tiny speech generation model** fr
   - [Local Web Demo with `app.py`](#local-web-demo-with-apppy)
   - [CLI Command: `moss-tts-nano generate`](#cli-command-moss-tts-nano-generate)
   - [CLI Command: `moss-tts-nano serve`](#cli-command-moss-tts-nano-serve)
+- [MOSS-Audio-Tokenizer-Nano](#moss-audio-tokenizer-nano)
 - [License](#license)
 - [Citation](#citation)
 - [Star History](#star-history)
