@@ -200,6 +200,10 @@ To learn more about setup, advanced usage, and evaluation metrics, please visit 
 
 ### Introduction
 
+<p align="center">
+  <img src="./assets/images/moss_tts_family.jpeg" width="85%" />
+</p>
+
 MOSS‑TTS Family is an open‑source **speech and sound generation model family** from [MOSI.AI](https://mosi.cn/#hero) and the [OpenMOSS team](https://www.open-moss.com/). It is designed for **high‑fidelity**, **high‑expressiveness**, and **complex real‑world scenarios**, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.
 
 The family currently includes:
